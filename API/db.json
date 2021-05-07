@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Product": [
+    {
+      "id": 123,
+      "pname": "Aashirvaad Atta (5 kg)",
+      "Ptype": "Grocery",
+      "price": 239
+    },
+    {
+      "id": 124,
+      "pname": "Quaker Oats Pouch (1000 g)",
+      "Ptype": "Grocery",
+      "price": 171
+    },
+    {
+      "id": 125,
+      "pname": "Sun Shudhi Refined Sunflower Oil  (1 L)",
+      "Ptype": "Grocery",
+      "price": 675
+    },
+    {
+      "id": 126,
+      "pname": "Fresh Brocolli (500g)",
+      "Ptype": "Vegetables",
+      "price": 81
+    },
+    {
+      "id": 127,
+      "pname": "Fresh Pomegranate, 4 Pieces",
+      "Ptype": "Vegetables",
+      "price": 175
+    },
+    {
+      "id": 128,
+      "pname": "Banana (1 kg)",
+      "Ptype": "Fruits",
+      "price": 10
+    },
+    {
+      "id": 129,
+      "pname": "Fresh Sweet Lime (5KG)",
+      "Ptype": "Grocery",
+      "price": "15"
+    },
+    {
+      "id": "130",
+      "pname": "Dairy Milk Crackle",
+      "Ptype": "Grocery",
+      "price": "20"
+    }
+  ]
+}
